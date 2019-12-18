@@ -1,0 +1,30 @@
+{
+  "movies" : [
+    {
+      "title": "Shawshank Redemption",
+      "year": "1994",
+      "cast": [
+        "Morgan Freeman",
+        "Tim Robbins",
+        "Clancy Brown"
+      ]
+    },
+    {
+      "title": "Avengers Endgame",
+      "year": "2019",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ]
+    },
+    {
+      "title": "Monsters Inc.",
+      "year": "2001",
+      "cast": [
+        "Billy Crystal",
+        "John Goodman"
+      ]
+    }
+  ]
+}
